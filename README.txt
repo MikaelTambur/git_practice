@@ -1,4 +1,1 @@
-Hello Git and GitHub
-test test push
-Test Push 2
-Test 2
+practice using git in gitbash and uploading changes to github :)
